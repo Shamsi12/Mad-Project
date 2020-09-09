@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "993330842083",
+    "firebase_url": "https://accessories-rental.firebaseio.com",
+    "project_id": "accessories-rental",
+    "storage_bucket": "accessories-rental.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993330842083:android:9c5b47651afbb7c47ab8d6",
+        "android_client_info": {
+          "package_name": "com.example.accessories_rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993330842083-8u3ohq8tpq78e829487rhace70g3ab12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBC5xdcPM11cziZ4euGb04aUECLEHKYOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993330842083-8u3ohq8tpq78e829487rhace70g3ab12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

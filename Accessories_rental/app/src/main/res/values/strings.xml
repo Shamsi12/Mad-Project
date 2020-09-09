@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Accessories Rental</string>
+    <string name="nav_chart">Products</string>
+    <string name="login_form">Login</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="placeholderemail">Enter email</string>
+    <string name="placeholderpassword">Enter password</string>
+    <string name="signin">SIGN IN</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="username">Username:</string>
+    <string name="emailreg">Email:</string>
+    <string name="phoneno">Phone Number:</string>
+    <string name="create_password">Password:</string>
+    <string name="if_you_have_already_register_go_to_sign_in">Already Account? Login here</string>
+    <string name="forget_Password">Reset Password</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password:</string>
+</resources>
